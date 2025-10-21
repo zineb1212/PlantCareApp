@@ -55,7 +55,7 @@ Le système permet de :
 1. Cloner le dépôt :
    ```bash
    git clone https://github.com/zineb1212/PlantCareApp.git
-Ouvrir le projet React Native :
+   Ouvrir le projet React Native :
 
 2. bash
     Copier le code
@@ -71,10 +71,17 @@ Ouvrir le projet React Native :
 ## Captures d’écran
 
 ### Tableau de bord principal
-![Dashboard](images/dashboard.jpg)
+<p align="center">
+  <img src="images/dashboard.jpg" alt="Dashboard" width="600">
+</p>
 
-### Suivi des capteurs en temps réel
-![Capteurs](images/dashboard1.jpg)
+### Suivi des capteurs
+<p align="center">
+  <img src="images/dashboard1.jpg" alt="Suivi des capteurs" width="600">
+</p>
 
-### Assistant IA pour la gestion de l’irrigation
-![Assistant IA](images/ai_assistant.jpg)
+### Assistant IA
+<p align="center">
+  <img src="images/ai_assistant.jpg" alt="Assistant IA" width="600">
+</p>
+
