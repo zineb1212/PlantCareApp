@@ -72,16 +72,16 @@ Le système permet de :
 
 ### Tableau de bord principal
 <p align="center">
-  <img src="images/dashboard.jpg" alt="Dashboard" width="600">
+  <img src="images/dashboard.jpg" alt="Dashboard" width="300">
 </p>
 
 ### Suivi des capteurs
 <p align="center">
-  <img src="images/dashboard1.jpg" alt="Suivi des capteurs" width="600">
+  <img src="images/dashboard1.jpg" alt="Suivi des capteurs" width="300">
 </p>
 
 ### Assistant IA
 <p align="center">
-  <img src="images/ai_assistant.jpg" alt="Assistant IA" width="600">
+  <img src="images/ai_assistant.jpg" alt="Assistant IA" width="300">
 </p>
 
