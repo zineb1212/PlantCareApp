@@ -5,13 +5,6 @@ PlantCare IoT est un système de surveillance d’irrigation intelligent basé s
 Le projet vise à automatiser le suivi de l’humidité du sol et de la température ambiante afin d’optimiser l’irrigation agricole.  
 Les données collectées par des capteurs sont traitées localement sur un microcontrôleur ESP32, transmises au cloud via Firebase, et visualisées en temps réel sur une application mobile et un tableau de bord web.
 
-## Équipe de développement
-- **CHKAIFI Zineb**  
-- **ERRAJA Khadija**
-
-## Encadrement et établissement
-Projet réalisé dans le cadre du **Master Ingénierie des Systèmes Intelligents (ISI)**  
-**Faculté des Sciences Aïn Chock – Université Hassan II de Casablanca**
 
 ## Domaine technique
 - Internet des Objets (IoT)
@@ -64,13 +57,24 @@ Le système permet de :
    git clone https://github.com/zineb1212/PlantCareApp.git
 Ouvrir le projet React Native :
 
-bash
-Copier le code
-cd PlantCareApp/mobile
-npm install
-npm start
-Configurer Firebase :
+2. bash
+    Copier le code
+    cd PlantCareApp/mobile
+    npm install
+    npm start
 
-Créer un projet Firebase.
+3. Configurer Firebase :
+    Créer un projet Firebase.
+    Ajouter le fichier google-services.json (Android) ou GoogleService-Info.plist (iOS).
 
-Ajouter le fichier google-services.json (Android) ou GoogleService-Info.plist (iOS).
+
+## Captures d’écran
+
+### Tableau de bord principal
+![Dashboard](images/dashboard.jpg)
+
+### Suivi des capteurs en temps réel
+![Capteurs](images/dashboard1.jpg)
+
+### Assistant IA pour la gestion de l’irrigation
+![Assistant IA](images/ai_assistant.jpg)
